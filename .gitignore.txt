@@ -1,0 +1,8 @@
+# Ignorar la carpeta de Visual Studio
+.vs/
+
+# Otros archivos y carpetas que comúnmente se ignoran en proyectos de .NET
+bin/
+obj/
+*.user
+*.suo
