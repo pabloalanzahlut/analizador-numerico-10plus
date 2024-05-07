@@ -1,0 +1,10 @@
+D:\bkp italia\ProyectosMaxi\Número 10+ Analizador de Números\Form1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\bkp italia\ProyectosMaxi\Número 10+ Analizador de Números\Form1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\bkp italia\ProyectosMaxi\Número 10+ Analizador de Números\Form1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\bkp italia\ProyectosMaxi\Número 10+ Analizador de Números\Form1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\bkp italia\ProyectosMaxi\Número 10+ Analizador de Números\Form1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\bkp italia\ProyectosMaxi\Número 10+ Analizador de Números\Form1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\bkp italia\ProyectosMaxi\Número 10+ Analizador de Números\Form1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\bkp italia\ProyectosMaxi\Número 10+ Analizador de Números\Form1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\bkp italia\ProyectosMaxi\Número 10+ Analizador de Números\Form1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\bkp italia\ProyectosMaxi\Número 10+ Analizador de Números\Form1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
